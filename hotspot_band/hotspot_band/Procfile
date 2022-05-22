@@ -1,1 +1,1 @@
-web: gunicorn hotspot-band.wsgi
+web: gunicorn hotspot-band.wsgi 
